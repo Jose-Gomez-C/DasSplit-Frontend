@@ -35,7 +35,7 @@ export const Accounts = () => {
     let balance = 0
     const rows = accounts
     const getStatement = (index) => {
-        rows[index].statement.map((accounting) => {
+        rows[index].statement.forEach((accounting) => {
             //
             if (accounting.user === idUser) {
                 if (accounting.balance === 0) {
