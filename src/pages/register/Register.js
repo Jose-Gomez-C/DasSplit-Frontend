@@ -9,7 +9,7 @@ import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import {createTheme, ThemeProvider} from '@mui/material/styles';
-import Logo from '../../assets/logo/Logo Jose_Mesa de trabajo 1.png'
+import Logo from '../../assets/logo/loguito.png'
 import {useAuth} from "../../contexts/AuthContext";
 import {useHistory} from "react-router";
 import {createUser} from "../../services/userServices";
