@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# DasSplit Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es una prueba técnica para Adidas, se trata de una app similar a la conocida [Splitwise](https://www.splitwise.com).
 
-## Available Scripts
+## Prerrequisitos
+- [NodeJs](https://nodejs.org/es/)
 
-In the project directory, you can run:
+## Vistas
 
-### `npm start`
+  - ### Login:
+    ![](https://github.com/Jose-Gomez-C/DasSplit-Frontend/blob/main/img%20Readme/login.png)
+  - ### Registro: 
+    ![](https://github.com/Jose-Gomez-C/DasSplit-Frontend/blob/main/img%20Readme/register.png)
+  - ### Detalles de la cuenta
+    ![](https://github.com/Jose-Gomez-C/DasSplit-Frontend/blob/main/img%20Readme/DetailsAccount.png)
+  - ### Crear nueva cuenta paso 1:
+    ![](https://github.com/Jose-Gomez-C/DasSplit-Frontend/blob/main/img%20Readme/newAccount.png)
+  - ### Crear nueva cuenta paso 2:
+    ![](https://github.com/Jose-Gomez-C/DasSplit-Frontend/blob/main/img%20Readme/newAccount%202.png)
+  - ### Crear nueva cuenta paso 3:
+    ![](https://github.com/Jose-Gomez-C/DasSplit-Frontend/blob/main/img%20Readme/newAccount%203.png)
+ 
+## Tecnologias, herramientas y librerias
+  - [React](https://es.reactjs.org)
+  - [Material-UI](https://mui.com)
+  - [Firebase](https://firebase.google.com/products/realtime-database/?utm_source=google&utm_medium=cpc&utm_campaign=latam-CO-all-es-dr-SKWS-all-all-trial-e-dr-1011454-LUAC0016195&utm_content=text-ad-none-any-DEV_c-CRE_545402043006-ADGP_Hybrid%20%7C%20SKWS%20-%20EXA%20%7C%20Txt%20~%20Compute_Firebase-KWID_43700066403055503-kwd-312330826250&utm_term=KW_firebase-ST_Firebase&gclid=Cj0KCQjw1ZeUBhDyARIsAOzAqQI_YUkUv75u5gJjhbQdWDFjnumdH4Or4TKt7o2mDDJJpqbgKzNqbQYaAkf-EALw_wcB&gclsrc=aw.ds)
+ 
+## Construido
+  -[webstorm](https://www.jetbrains.com/es-es/webstorm/) Editor para aplicaciones webs
+  
+## Autor
+[José Luis Gómez Camacho](https://github.com/Jose-Gomez-C)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Licencia
+Este proyecto está licenciado bajo la GNU v3.0 - ver el archivo [LICENSE.md]() para más detalles
+  
