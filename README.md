@@ -32,5 +32,5 @@ Este proyecto es una prueba técnica para Adidas, se trata de una app similar a 
 [José Luis Gómez Camacho](https://github.com/Jose-Gomez-C)
 
 ## Licencia
-Este proyecto está licenciado bajo la GNU v3.0 - ver el archivo [LICENSE.md]() para más detalles
+Este proyecto está licenciado bajo la GNU v3.0 - ver el archivo [LICENSE.md](https://github.com/Jose-Gomez-C/DasSplit-Frontend/blob/main/LICENSE.md) para más detalles
   
